@@ -9,7 +9,7 @@ Hi there 👋 I'm Michelle! :grinning:
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/michelle-a-chung/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin-mchung&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;
 </p>
 
