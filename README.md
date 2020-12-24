@@ -1,5 +1,5 @@
 <p align='center'>
-### Hi there 👋 I'm Michelle! :grinning: 
+Hi there 👋 I'm Michelle! :grinning: 
 </p>
 
 
