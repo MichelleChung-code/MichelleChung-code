@@ -4,7 +4,7 @@ Hi there 👋 I'm Michelle! :grinning:
 
 
 <p align='center'>
-  :woman_scientist: University of Calgary, Chemical Engineering Student:woman_scientist: 
+  :woman_scientist: University of Calgary, Chemical Engineering Student :woman_scientist: 
 </p>
 
 <p align='center'>
