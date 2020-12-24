@@ -1,4 +1,7 @@
+<p align='center'>
 ### Hi there 👋 I'm Michelle! :grinning: 
+</p>
+
 
 <p align='center'>
   :woman_scientist: University of Calgary, Chemical Engineering Student
