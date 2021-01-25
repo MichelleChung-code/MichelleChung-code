@@ -16,6 +16,12 @@ Hi there 👋 I'm Michelle! :grinning:
     </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+    <a href="https://www.codewars.com/users/mchung-code">
+    <img src="https://www.codewars.com/users/mchung-code/badges/small" />
+    </a>&nbsp;&nbsp;
+</p>
+
 <!-- 
 Badges from https://github.com/alexandresanlim/Badges4-README.md-Profile 
 --> 
