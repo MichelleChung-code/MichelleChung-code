@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michelle Chung</h1>
+<h1 align="center">Hi, I'm Michelle Chung! 👋</h1>
 <h3 align="center">:woman_scientist: University of Calgary, Chemical Engineering Student :woman_scientist: </h3>
 
 <p align="center">
