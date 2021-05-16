@@ -3,8 +3,8 @@
 
 <p align="center">
 📫 How to reach me: 
-    <a href="mailto:tkd.m.chung@gmail.com">
-    tkd.m.chung@gmail.com
+    <a href="https://michellechung-code.github.io/contact.html">
+        Let's Connect!
     </a>&nbsp;&nbsp;
 </p>
     
