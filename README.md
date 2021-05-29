@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michelle Chung! 👋</h1>
-<h3 align="center">:woman_scientist: University of Calgary, Chemical Engineering Student :woman_scientist: </h3>
+<h3 align="center">:woman_scientist: BSc Chemical Engineering, Energy and Environment Specialization, University of Calgary :woman_scientist: </h3>
 
 <p align="center">
 📫 How to reach me: 
