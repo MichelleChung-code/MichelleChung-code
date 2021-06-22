@@ -17,8 +17,8 @@
 <p align="center"> <a href="https://www.mathworks.com/" target="_blank"> <img src="img/matlab_logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p align='center'>
-    <a href="https://www.codewars.com/users/mchung-code">
-    <img src="https://www.codewars.com/users/mchung-code/badges/small" />
+    <a href="https://www.codewars.com/users/MichelleChung-code">
+    <img src="https://www.codewars.com/users/MichelleChung-code/badges/small" />
     </a>&nbsp;&nbsp;
 </p>
 
