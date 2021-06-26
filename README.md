@@ -27,6 +27,6 @@ Badges from https://github.com/alexandresanlim/Badges4-README.md-Profile
 Updated using https://rahuldkjain.github.io/gh-profile-readme-generator/
 --> 
 
-In Python 3: 
+In Python 3: <img src="img/pokeball.png" alt="pokeball" width="17" height="17"/>
 <pre><code>bytearray.fromhex('4661766f757269746520506f6b656d6f6e3a20436861726d616e646572').decode()
 </code></pre>
