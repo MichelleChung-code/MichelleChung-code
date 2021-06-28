@@ -29,5 +29,5 @@ Updated using https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 In Python 3: <img src="img/pokeball.png" alt="pokeball" width="17" height="17"/>
 ```javascript
-bytearray.fromhex("4661766f757269746520506f6b656d6f6e3a20436861726d616e646572").decode()
+bytearray.fromhex("46 61 76 6f 75 72 69 74 65 20 50 6f 6b 65 6d 6f 6e 3a 20 43 68 61 72 6d 61 6e 64 65 72").decode()
 ```
